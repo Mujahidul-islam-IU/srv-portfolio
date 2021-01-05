@@ -1,0 +1,92 @@
+h1{
+    font-size: 30px;
+}
+body{
+    margin: 0%;
+    font-family: 'Lato', sans-serif;
+}
+.color{
+    color: blueviolet
+}
+.lastbg{
+    background-image: url(pic/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.half-page{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-page img{
+    width: 100%;
+    height: 10%;
+}
+.bg-img{
+    background-image: url(pic/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+    
+}
+.button{
+    text-decoration: none ;
+    padding: 10px 25px;
+    border-radius: 8px;
+    color: cornsilk;
+    background-color: rgb(220, 110, 20);
+    font-weight: 800; 
+}
+.nd-part{
+    width: 40%;
+    float: left;
+margin-right: 3%;
+padding-right: 3%;
+}
+.nd-part img{
+    width: 100%;
+}
+.bg-im2{
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.make-b{
+    width: 40%;
+    float: left;
+    
+    margin-left: 5%;
+    padding: 10px 8px;
+    box-shadow: 10px 10px 40px gainsboro;
+    height: 40%;
+    border-radius: 5px;
+    text-align: justify;
+}
+#border{
+    border-left: 7px solid;
+   border-image: linear-gradient( lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#border2{
+    border-left: 7px solid;
+   border-image: linear-gradient( blue, cyan );
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+        
